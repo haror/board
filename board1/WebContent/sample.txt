@@ -1,3 +1,7 @@
 aa
+<<<<<<< HEAD
 sdfkj
 ewiorfdsl
+test
+add
+make conflict
